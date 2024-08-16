@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial;
+}
+
+#loancal{
+    border: 1px solid;
+    border: none;
+    width: 400px;
+    margin: 5% auto;
+    box-shadow: 0 5px 10px rgb(125, 125, 125);
+    padding-top: 10px;
+    padding-left: 15px;
+
+}
+
+#months{
+    width: 175px;
+    height: 20px;
+}
+
+#interest{
+    width: 175px;
+    height: 20px;
+}
+
+#amount{
+    width: 175px;
+    height: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+/* h2{
+    color:rgb(46, 255, 46);
+    font-family: cursive;
+} */
